@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @azharuddin
 - 👀 I’m interested in Data and product 
+- 📫 Skilled in Research, Documentation, Analytics, Interactive Dashboards 
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on building products 
 - 📫 How to reach me azharmdu.in@gmail.com
